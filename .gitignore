@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Scrapy
+.scrapy/
+
+# Logs
+*.log
+
+# Scraped data
+*.jl
+*.csv
+*.json
+
+# Egg-info
+*.egg-info/
+
+# Pipenv
+Pipfile.lock
