@@ -25,3 +25,9 @@ env/
 
 # Pipenv
 Pipfile.lock
+
+# PyCarm
+.idea/
+
+# VSCode
+.vscode/
